@@ -67,11 +67,11 @@ header .profile-image {
   height: 210px;
   border-radius: 50%;
   border: 3px solid #a115c1;
-  transform: rotate(15deg);
+  transform: rotate(-5deg);
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(27deg);
+  transform: scale(1.2) rotate(7deg);
 }
 .tag {
   background-color: #efefef;
